@@ -1,6 +1,6 @@
 This page contains videos/talks that I've most probably watched sometime and I liked them (or parts of them) and felt the urge to keep their links.
 
-I should have made a short TL;DW; for each but didn't. Still I'm going to put then under some sort of categories since I don't have a tagging system for them.. (yet)
+I should have made a short TL;DW for each but didn't. Still I'm going to put then under some sort of categories since I don't have a tagging system for them.. (yet)
 
 
 # professionalism (in cs)
